@@ -18,7 +18,7 @@ A travers l’étude de données que j’ai effectuée j’ai souhaité mettre e
 * Taux d'accès à l’eau potable par pays et par années 
 * Taux d'accès à des services d'assainissements par pays et par années 
 
-*Source : [Simplonline](https://www.gapminder.org/data/) !*
+*Source : [Gapminder](https://www.gapminder.org/data/) !*
 
 
 # Execution
