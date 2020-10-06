@@ -8,4 +8,11 @@ Ouvrir le fichier projet_R.R
 
 —> Exécuter ensuite toutes les lignes de codes jusqu'à l'exécution de shynnyApp
 
+
+# Appercu d'execution
+
 ![img1](https://github.com/AntoineMOREAU1/Data-Viz_R/blob/master/Img_read_me/img1.png)
+
+![img2](https://github.com/AntoineMOREAU1/Data-Viz_R/blob/master/Img_read_me/img1.png)
+
+![img3](https://github.com/AntoineMOREAU1/Data-Viz_R/blob/master/Img_read_me/img1.png)
