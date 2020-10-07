@@ -49,17 +49,14 @@ library(gapminder)
 
 #Lecture des csv
 
-fichier1 <- file.choose("fichier1.csv")
-life_expectancy_years <- read.csv(fichier1)
+life_expectancy_years <- read.csv("fichier1.csv")
 
-fichier2 <- file.choose("fichier2.csv")
-water_acces <- read.csv(fichier2)
+water_acces <- read.csv("fichier2.csv")
 
-fichier3 <- file.choose("fichier3.csv")
-sanitation_acces <- read.csv(fichier3)
+sanitation_acces <- read.csv("fichier3.csv")
 
-fichier4 <- file.choose("fichier4.csv")
-median_age <- read.csv(fichier4)
+median_age <- read.csv("fichier4.csv")
+
 
 
 #Fuison des datasets afin de les mettre en relation les unes aux autres 
