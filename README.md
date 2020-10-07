@@ -7,7 +7,7 @@ De nos jours, les immenses avancées technologiques et techniques dans de nombre
 Nous permettent d’améliorer notre niveau et notre confort de vie, malgrès cela de nombreuses inégalitées subsistent sur notre planète et de nombreux pays ne bénéficient pas de ces avancées.
 En effet de nombreux pays majoritairement sur le continent Africain ne bénéficie même pas des infrastructures élémentaire tel que l'accès à l’eau potable, aux soins, ou à des services d’assainissements.
 
-A travers l’étude de données que j’ai effectuée j’ai souhaité mettre en évidence ces inégalités de moyens qu’il y’a entre les différents pays et les conséquences direct que celles-ci engendrent.
+A travers l’étude de données que j’ai effectuée j’ai souhaité mettre en évidence ces inégalités de moyens qu’il y’a entre les différents pays et les conséquences direct que celles-ci engendrent !
 
 
 # Bases de données
