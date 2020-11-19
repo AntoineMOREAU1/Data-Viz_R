@@ -32,7 +32,7 @@ Ouvrir le fichier projet_R.R
 
 # Appercu d'execution
 
-![img1oo](https://github.com/AntoineMOREAU1/Data-Viz_R/blob/master/Img_read_me/img1.png)
+![img1](https://github.com/AntoineMOREAU1/Data-Viz_R/blob/master/Img_read_me/img1.png)
 
 ![img2](https://github.com/AntoineMOREAU1/Data-Viz_R/blob/master/Img_read_me/img2.png)
 
